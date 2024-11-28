@@ -1,5 +1,5 @@
 #No subir
-#.env
+*.env
 **/__pycache__/
 
 ## Ignore Visual Studio temporary files, build results, and

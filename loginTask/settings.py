@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'loginTask.wsgi.application'
 
 # Omitido
 LOGIN_URL = '/accounts/login'
-LOGIN_REDIRECT_URL = '/tasts'
+LOGIN_REDIRECT_URL = '/tasks'
 LOGOUT_REDIRECT_URL = '/accounts/login'
  
 
